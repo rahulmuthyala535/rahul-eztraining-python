@@ -1,0 +1,23 @@
+functions
+---------
+
+types:
+
+1) predefined functions
+2) userdefined functions
+
+for code reusebility we use functions
+lets say we want to use a particular concept multiple times in our program instead of writing the same code many times,
+we can write it once include that inside a function and can call the function whereever we need it
+
+types:
+
+1) functions without argument without return value
+2) functins without arg with return value
+3) funtins with arg with return value
+4) function with arg without return value
+
+
+recursive function:
+
+the function which calls itsl
